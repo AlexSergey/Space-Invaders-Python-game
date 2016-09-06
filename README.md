@@ -14,3 +14,18 @@ This game was create about 3 weeks by 3-4 hours in a day.
 - Implemented Score, Health, Shot
 - We can modify global config file for custom settings the game
 - AI for simple enemies and AI for Boss
+
+### Build:
+If you need build, we can:
+- install cx_Freeze
+- go to "source" folder
+- run 
+```python
+python build.py build
+```
+### Setup:
+- go to "source" folder
+- run
+```python
+python setup.py install
+```

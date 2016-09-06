@@ -1,0 +1,10 @@
+import sys
+sys.path.append('.\\core\\')
+sys.path.append('.\\utils\\')
+sys.path.append('.\\python_modules\\')
+sys.path.append('.\\misc\\')
+sys.path.append('.\\characters\\')
+sys.path.append('.\\characters\\asteroids\\')
+sys.path.append('.\\characters\\enemies\\')
+sys.path.append('.\\backgrounds\\')
+sys.path.append('.\\weapons\\')
